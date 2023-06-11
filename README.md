@@ -1,6 +1,6 @@
 # File Time Sync
 
-Just simple tool for update file created date when I forget to setup time on by camera. This repo requires [PNPM](https://pnpm.io/).
+Just simple tool for update file creation date when I forget to setup time on my camera. This repo requires [PNPM](https://pnpm.io/).
 
 I created this repo because I forget to set up clock in my camera so all of my pictures become first day of 2023. LOL
 
