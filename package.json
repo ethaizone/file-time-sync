@@ -1,7 +1,7 @@
 {
   "name": "file-time-sync",
   "version": "1.0.0",
-  "description": "Just simple tool for update file created date when I forget to setup time on by camera.",
+  "description": "Just simple tool for update file creation date when I forget to setup time on my camera.",
   "main": "src/index.ts",
   "private": true,
   "engines": {
